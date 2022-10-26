@@ -1,0 +1,14 @@
+{
+  "version": "2.2.1",
+  "name": "PAXsServer Viewer",
+  "description": "PAXsServer Viewer",
+  "icons": {
+    "60": "/assets/logo.png",
+    "128": "/assets/logo.png",
+    "512": "/assets/logo.png"
+  },
+  "developer": {
+    "name": "PAXs Contributors",
+    "url": "http://elsamani.rf.gd"
+  }
+}
